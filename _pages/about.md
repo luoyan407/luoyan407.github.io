@@ -11,7 +11,8 @@ redirect_from:
 # About Me
 * I'm a Ph.D. student in the Department of Computer Science & Engineering at [University of Minnesota](https://twin-cities.umn.edu/), luckily advised by Prof. [Qi Zhao](https://www-users.cse.umn.edu/~qzhao/).
 <!-- * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic inference, as well as their applications in generative modeling, sequential decision making under uncertainty, multi-task and meta-learning, and multi-agent systems. -->
-* I was fortunate to be able to work with Dr. [Yongkang Wong](https://sites.google.com/site/yongkangwong/) and Prof. [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) at [National University of Singapore](https://www.nus.edu.sg/). 
+* I was fortunate to be able to work with Dr. [Yongkang Wong](https://sites.google.com/site/yongkangwong/) and Prof. [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) at [National University of Singapore](https://www.nus.edu.sg/).
+* I was excited to work with Prof. [Scott Vrieze](https://cla.umn.edu/about/directory/profile/vrieze) on the [CoTwins](https://genome.psych.umn.edu/index.php/CoTwins) project at University of Minnesota.
 * I received my Bachelor’s Degree in [Xi’an University of Science and Technology](https://en.xust.edu.cn/). 
 
 # Research Interests
