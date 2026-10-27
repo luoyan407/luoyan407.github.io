@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yan Luo"
 title_separator          : "-"
 name                     : &name "Yan Luo"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Research Fellow"
 url                      : https://luoyan407.github.io #https://luoyan407.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luoyan407/luoyan407.github.io"
@@ -84,13 +84,14 @@ analytics:
 author:
   name             : "Yan Luo"
   avatar           : "yanluo_rz.jpg"
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Research Fellow"
   location         : "Boston, MA"
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-5135-0316"
-  googlescholar    : "https://scholar.google.com/citations?user=TlO77WYAAAAJ"
-  email            : "luoxx648@umn.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=LSgqnKQAAAAJ"
+  email            : "luoyan227@gmail.com"
+  email_secondary  : "yluo16@meei.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

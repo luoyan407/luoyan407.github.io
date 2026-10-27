@@ -1,14 +1,15 @@
 ---
 permalink: /
+layout: home
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+## About Me
 * I'm fortunate to work with Prof. [Mengyu Wang](https://connects.catalyst.harvard.edu/Profiles/display/Person/142596) and Prof. [Tobias Elze](https://eye.hms.harvard.edu/tobiaselze) as a Research Fellow at the [Harvard AI and Robotics Lab](https://wang.hms.harvard.edu/our-team/).
 * I earned my Ph.D. in Computer Science from the University of Minnesota, where I was luckily advised by Prof. [Qi Zhao](https://www-users.cse.umn.edu/~qzhao/).
 * Previously, I had the pleasure of working with Dr. [Yongkang Wong](https://sites.google.com/site/yongkangwong/) and Prof. [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) at National University of Singapore.
@@ -18,9 +19,8 @@ redirect_from:
 <!-- * I was excited to work with Prof. [Scott Vrieze](https://cla.umn.edu/about/directory/profile/vrieze) on the [CoTwins](https://genome.psych.umn.edu/index.php/CoTwins) project at University of Minnesota. -->
 <!-- * I received my Bachelor’s Degree in [Xi’an University of Science and Technology](https://en.xust.edu.cn/).  -->
 
-# Research Interests
-My research focuses on responsible AI that is robust, fair, and trustworthy, with an emphasis on building models whose behaviors are interpretable, controllable, and reliable under distribution shift and high-stakes deployment.
-A central theme of my research is the development of principled model architectures and evaluation protocols that disentangle generalizable problem-solving from data- and knowledge-driven shortcuts, thereby promoting safe, robust, and maintainable adaptation without sacrificing performance.
+## Research Interests
+My research focuses on multimodal reasoning and responsible AI, with an emphasis on developing trustworthy, fair, and generalizable intelligent systems. Also, I investigate vision-language learning, multimodal large language models, and multi-agent reasoning to enable robust understanding and adaptive reasoning across modalities. My long-term vision is to build intelligent systems that can reason across diverse modalities, adapt to dynamic environments, and make reliable, equitable decisions in complex real-world scenarios.
 
-# Academic Services
+## Academic Services
 * Reviewer: CVPR 2019, ICCV 2019, AAAI 2020, CVPR 2020, ECCV 2020, NeurIPS 2020, WACV 2021, AAAI 2021, CVPR 2021, ICML 2021, ICCV 2021, NeurIPS 2021, WACV 2022, AAAI 2022, CVPR 2022, ICLR 2022, ICML 2022, ECCV 2022, NeurIPS 2022, ACCV 2022, WACV 2023, ICLR 2023, CVPR 2023, ICCV 2023, NeurIPS 2023, ICLR 2024, CVPR 2024, ICML 2024, ECCV 2024, NeurIPS 2024, ICLR 2025, ICML 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026, ICLR 2027, CVPR 2027

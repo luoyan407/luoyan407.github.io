@@ -9,6 +9,6 @@ redirect_from:
 
 # Curriculum Vitae
 
-<iframe src="/files/pdf/YanLuo_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe title="Yan Luo’s curriculum vitae" src="{{ "/files/pdf/YanLuo_CV.pdf" | relative_url }}" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy [here](/files/pdf/YanLuo_CV.pdf).

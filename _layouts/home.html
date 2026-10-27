@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<main id="main" class="home-main">
+  <section class="profile-hero" aria-labelledby="profile-name">
+    <div class="profile-hero__copy">
+      <p class="eyebrow">Responsible AI · Multimodal Reasoning</p>
+      <h1 id="profile-name">{{ site.author.name }}</h1>
+      <p class="profile-role">{{ site.author.bio }}</p>
+      <p class="profile-intro">Building AI we can<br><em>understand and trust.</em></p>
+      <p class="profile-affiliation">Harvard AI and Robotics Lab <span aria-hidden="true">/</span> {{ site.author.location }}</p>
+      <div class="profile-emails">
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <a href="mailto:{{ site.author.email_secondary }}">{{ site.author.email_secondary }}</a>
+      </div>
+    </div>
+    <figure class="profile-portrait">
+      <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Portrait of {{ site.author.name }}" width="360" height="420">
+    </figure>
+  </section>
+  <nav class="profile-social" aria-label="Research and social profiles">
+    {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if site.author.orcid %}<a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">↗</span></a>{% endif %}
+  </nav>
+  <div class="home-content">{{ content }}</div>
+</main>

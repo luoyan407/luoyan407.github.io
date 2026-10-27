@@ -60,16 +60,16 @@
       {% endif %}
       <br>
       {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+        <a class="publication-resource" href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Project</a>
       {% endif %}
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a class="publication-resource" href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Paper</a>
       {% endif %}
       {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+        <a class="publication-resource" href="{{ post.code }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i> Code</a>
       {% endif %}
       {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+        <a class="publication-resource" href="{{ post.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
